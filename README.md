@@ -1,5 +1,6 @@
 # Heart Disease Predictior
-
+ Newral Network & ml Based predictor
+ 
 **Follow me:**
 - [Linkedin](https://www.linkedin.com/in/meet4877/)
 - [Facebook](https://www.facebook.com/meet4877)
