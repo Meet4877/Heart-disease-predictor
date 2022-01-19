@@ -1,5 +1,5 @@
 # Heart Disease Predictior
- Newral Network & ml Based predictor
+ Neural Network & ml Based predictor
  
 **Follow me:**
 - [Linkedin](https://www.linkedin.com/in/meet4877/)
